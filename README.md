@@ -37,7 +37,7 @@
   - Consola del navegador.
   - Conosola de desarrollo integrado(IDE).
     
--11.El ciclo de vida de una variable es:
+- 11.El ciclo de vida de una variable es:
 - Declaración: Reservar un espacio en memoria para almacenar el valor de la variable., tipo de dato y su nombre.
 - Inicialización o asignación: Asignar un valor inicial a una variable, estas pueden ser inicializadas directamente al declararlas,         mientras que en otros se debe asignar un valor posteriormente.
 - Uso: La variable puede ser leida, escrita, modificada o utilizada en diferentes partes del código.
